@@ -146,15 +146,13 @@ namespace NTP_Odev_2
                         {
                             Console.WriteLine(ogrenciler[i, j] + "\t");
                         }
+                        Console.WriteLine();
                     }
                     
 
                 }
-                Console.WriteLine();
-                
-
-
-            }
+                              
+           }
 
             
 
